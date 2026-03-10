@@ -11,11 +11,10 @@ body{
     margin:0;
     padding:0;
     font-family: Arial, sans-serif;
-    background:#0f2027;
+    background: url("aa2538c5-8cea-4b39-b49f-490e9cc2077c.png") no-repeat center center/cover;
     color:white;
     text-align:center;
 }
-
 #particles-js{
     position:fixed;
     width:100%;
