@@ -140,7 +140,6 @@ opacity:0.6;
 <a href="https://www.snapchat.com/add/madala_jithin?share_id=w8HRt1b6hOg&locale=en-US" class="btn" target="_blank">Snapchat - Madala Jithin</a>
 
 </div>
-
 <div class="footer">
 © 2026 Jithin Chowdary
 </div>
